@@ -24,6 +24,7 @@
     <ProjectGuid>{2735a05d-9625-4c14-93c5-a1efb3a9ebfb}</ProjectGuid>
     <RootNamespace>Class2thBruteForce</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class 2nd (Brute Force)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

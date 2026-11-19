@@ -24,6 +24,7 @@
     <ProjectGuid>{9b118b36-2894-406e-a4de-154d4770020b}</ProjectGuid>
     <RootNamespace>Class1thAsymptoticNotation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class 1st (Asymptotic Notation)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
